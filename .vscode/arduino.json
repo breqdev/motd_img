@@ -1,0 +1,6 @@
+{
+    "port": "/dev/tty.usbmodem101",
+    "configuration": "opt=small,usbstack=arduino,debug=off",
+    "board": "adafruit:samd:adafruit_qtpy_m0",
+    "sketch": "motd_img.ino"
+}
